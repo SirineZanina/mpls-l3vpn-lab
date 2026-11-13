@@ -1,0 +1,6 @@
+# GNS3 runtime files
+*.log
+*_stdout.txt
+*.backup*
+*.ghost
+*.image
